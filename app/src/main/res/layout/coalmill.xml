@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView android:id="@+id/scroll_home"
+    android:scrollbars="none"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:id="@+id/header"
+                android:text="Coal Mill"
+                android:textSize="40dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="320dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Coal mill is an important auxiliary equipment for coal-powder furnace, it has three methods to crush the coal lump and grind them into powder,it is crushing, impacting and grinding. Air swept coal mill is the main equipment in cement plant for both drying and grinding of the powders."
+                android:textSize="25dp" />
+
+            <Button
+                android:id="@+id/buttonplay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="videoplay"
+                android:text="Start" />
+
+            <TextureView
+                android:id="@+id/videoview"
+                android:layout_width="match_parent"
+                android:layout_height="320dp" />
+        </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

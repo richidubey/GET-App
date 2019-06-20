@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3826e29ebb0b25cd22f75c451c55befa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/0b15ede7164f0237a609455dcebecb6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/8ce8f51df02f4daa87e817427a34e55d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/aefe392451d5199054bcf93628e2dca1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/272a3bfbee1351aa7c408707acb02fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/251d68de9df577df7e4d06c9e91d4a99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/c26dbc2c952652e89ed177da0c369669/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/903504735ce368e1c7285698049b07a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/7e6c9cac187cbaff4d7a8a6ec73eba8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f45b2ec5f07f302a0c9673d391d24b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e4f6433db4a294a9f083c29e27366d27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e2f04b117c5578c6cdcf7721715ac702/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/228e806507d5da2bdd302ae47def6ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/34fa8586ac5b69a7c207bec7a295e456/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/eea29f1bd8d45a3b3aca3bf4894ed12c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/132e81161e9afb9124beb3778d2054b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/2289f8493932f68810bcbec08917dba8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/efa84079dfe98007d78f015f75b76cb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3cf17ed5920ea3f3cff16dc3e14ede77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/29e27dd0e261b56d197707bb73c2552c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/05136a1e57b5e6fa94ef010848620927/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/094b4b81a732cb30c37b0b1c6533a1ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/34fa8586ac5b69a7c207bec7a295e456/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/34fa8586ac5b69a7c207bec7a295e456/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.newapp.MainActivity
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.newapp.CoalMill
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:19-43
+uses-sdk
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3826e29ebb0b25cd22f75c451c55befa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3826e29ebb0b25cd22f75c451c55befa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/0b15ede7164f0237a609455dcebecb6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/0b15ede7164f0237a609455dcebecb6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/8ce8f51df02f4daa87e817427a34e55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/8ce8f51df02f4daa87e817427a34e55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/aefe392451d5199054bcf93628e2dca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/aefe392451d5199054bcf93628e2dca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/272a3bfbee1351aa7c408707acb02fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/272a3bfbee1351aa7c408707acb02fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/251d68de9df577df7e4d06c9e91d4a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/251d68de9df577df7e4d06c9e91d4a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/c26dbc2c952652e89ed177da0c369669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/c26dbc2c952652e89ed177da0c369669/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/903504735ce368e1c7285698049b07a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/903504735ce368e1c7285698049b07a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/7e6c9cac187cbaff4d7a8a6ec73eba8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/7e6c9cac187cbaff4d7a8a6ec73eba8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f45b2ec5f07f302a0c9673d391d24b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f45b2ec5f07f302a0c9673d391d24b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e4f6433db4a294a9f083c29e27366d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e4f6433db4a294a9f083c29e27366d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e2f04b117c5578c6cdcf7721715ac702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/e2f04b117c5578c6cdcf7721715ac702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/228e806507d5da2bdd302ae47def6ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/228e806507d5da2bdd302ae47def6ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/34fa8586ac5b69a7c207bec7a295e456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/34fa8586ac5b69a7c207bec7a295e456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/eea29f1bd8d45a3b3aca3bf4894ed12c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/eea29f1bd8d45a3b3aca3bf4894ed12c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/132e81161e9afb9124beb3778d2054b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/132e81161e9afb9124beb3778d2054b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/2289f8493932f68810bcbec08917dba8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/2289f8493932f68810bcbec08917dba8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/efa84079dfe98007d78f015f75b76cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/efa84079dfe98007d78f015f75b76cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3cf17ed5920ea3f3cff16dc3e14ede77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3cf17ed5920ea3f3cff16dc3e14ede77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/29e27dd0e261b56d197707bb73c2552c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/29e27dd0e261b56d197707bb73c2552c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/05136a1e57b5e6fa94ef010848620927/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/05136a1e57b5e6fa94ef010848620927/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/094b4b81a732cb30c37b0b1c6533a1ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/094b4b81a732cb30c37b0b1c6533a1ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:20:5-44
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml

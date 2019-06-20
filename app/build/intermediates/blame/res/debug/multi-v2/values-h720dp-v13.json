@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yayy/Downloads/New App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
