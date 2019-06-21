@@ -27,6 +27,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.newapp.CoalMill" />
+        <activity android:name="com.example.newapp.Grinding" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

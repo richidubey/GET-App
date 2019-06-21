@@ -19,21 +19,38 @@
                 android:textSize="40dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"/>
-        <HorizontalScrollView
-            android:layout_width="wrap_content"
-            android:layout_height="320dp">
-            <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
 
-            </LinearLayout>
-        </HorizontalScrollView>
+            <ImageSwitcher
+                android:id="@+id/imageswitcher"
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:layout_marginTop="58dp" />
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Previous"
+                    android:id="@+id/prev"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="Next"
+                    android:id="@+id/next"/>
+            </RelativeLayout>
+
+
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/maintext"
                 android:layout_margin="20dp"
-                android:text="Coal mill is an important auxiliary equipment for coal-powder furnace, it has three methods to crush the coal lump and grind them into powder,it is crushing, impacting and grinding. Air swept coal mill is the main equipment in cement plant for both drying and grinding of the powders."
+
                 android:textSize="25dp" />
 
             <Button
@@ -44,7 +61,7 @@
                 android:onClick="videoplay"
                 android:text="Start" />
 
-            <TextureView
+            <com.sprylab.android.widget.TextureVideoView
                 android:id="@+id/videoview"
                 android:layout_width="match_parent"
                 android:layout_height="320dp" />

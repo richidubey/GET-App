@@ -544,7 +544,6 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
-drawable a
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -629,8 +628,6 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable b
-drawable c
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -720,6 +717,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageswitcher
 id info
 id invisible
 id italic
@@ -728,10 +726,12 @@ id line1
 id line3
 id listMode
 id list_item
+id maintext
 id message
 id middle
 id multiply
 id never
+id next
 id none
 id normal
 id notification_background
@@ -741,6 +741,7 @@ id packed
 id parent
 id parentPanel
 id percent
+id prev
 id progress_circular
 id progress_horizontal
 id radio
@@ -840,6 +841,7 @@ layout deaerator
 layout feedwaterheater
 layout fullscreen
 layout generator
+layout grinding
 layout hpturbine
 layout notification_action
 layout notification_action_tombstone
@@ -855,9 +857,16 @@ layout subcriticalboilers
 layout supercriticalboilers
 layout support_simple_spinner_dropdown_item
 layout transformer
+mipmap a
+mipmap a2
+mipmap b
+mipmap b2
+mipmap c
+mipmap c2
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw coalmill
+raw grind
 raw subcritical
 string abc_action_bar_home_description
 string abc_action_bar_up_description

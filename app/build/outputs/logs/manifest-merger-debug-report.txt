@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3826e29ebb0b25cd22f75c451c55befa/AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yayy/.gradle/caches/tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/094b4b81a732cb30c37b0b1c6533a1ca/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:5-94
@@ -88,6 +88,10 @@ activity#com.example.newapp.CoalMill
 ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:9-55
 	android:name
 		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:19-43
+activity#com.example.newapp.Grinding
+ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:20:9-55
+	android:name
+		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:20:19-43
 uses-sdk
 INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml

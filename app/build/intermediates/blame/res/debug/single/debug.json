@@ -20,36 +20,36 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_cascading_menu_item_layout.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
@@ -144,12 +144,12 @@
         "source": "/home/yayy/Downloads/New App/app/src/main/res/layout/supercriticalboilers.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -200,6 +200,10 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_b.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/b.jpg"
+    },
+    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -240,12 +244,12 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_fullscreen.xml.flat",
         "source": "/home/yayy/Downloads/New App/app/src/main/res/layout/fullscreen.xml"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -256,16 +260,16 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
@@ -352,10 +356,6 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_c.jpg.flat",
-        "source": "/home/yayy/Downloads/New App/app/src/main/res/drawable/c.jpg"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -372,6 +372,10 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_grinding.xml.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/layout/grinding.xml"
+    },
+    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -380,12 +384,12 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -396,12 +400,12 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -430,10 +434,6 @@
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_a.jpg.flat",
-        "source": "/home/yayy/Downloads/New App/app/src/main/res/drawable/a.jpg"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -512,32 +512,32 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_b.jpg.flat",
-        "source": "/home/yayy/Downloads/New App/app/src/main/res/drawable/b.jpg"
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_select_dialog_material.xml"
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_b2.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/b2.jpg"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable_abc_list_divider_material.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable/abc_list_divider_material.xml"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
@@ -566,6 +566,10 @@
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_c2.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/c2.jpg"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -600,12 +604,12 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
@@ -988,6 +992,10 @@
         "source": "/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_a2.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/a2.jpg"
+    },
+    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
@@ -1142,6 +1150,10 @@
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_a.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/a.jpg"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1516,6 +1528,10 @@
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_c.jpg.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/c.jpg"
+    },
+    {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
@@ -1662,6 +1678,10 @@
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/raw_grind.mp4.flat",
+        "source": "/home/yayy/Downloads/New App/app/src/main/res/raw/grind.mp4"
     },
     {
         "merged": "/home/yayy/Downloads/New App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",

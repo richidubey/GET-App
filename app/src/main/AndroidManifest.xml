@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CoalMill"></activity>
+        <activity android:name=".Grinding"></activity>
     </application>
 
 </manifest>
