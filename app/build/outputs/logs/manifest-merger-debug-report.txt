@@ -1,9 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.iamporus:TypedTextView:1.0.4] /home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mohammadatif:Animatoo:master] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/3826e29ebb0b25cd22f75c451c55befa/AndroidManifest.xml:17:1-22:12
@@ -31,25 +33,26 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/yayy/.gradle/caches/tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/094b4b81a732cb30c37b0b1c6533a1ca/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [bg.devlabs.fullscreenvideoview:library:1.1.2] /home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/AndroidManifest.xml:17:1-26:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:5-94
@@ -59,43 +62,67 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/yayy/.gradle/
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.newapp.MainActivity
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.newapp.CoalMill
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:9-55
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:19:9-55
 	android:name
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:19:19-43
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:19:19-43
 activity#com.example.newapp.Grinding
-ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:20:9-55
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:20:9-55
 	android:name
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml:20:19-43
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:20:19-43
+activity#com.example.newapp.SuperCriticalBoilers
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:21:9-67
+	android:name
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:21:19-55
+activity#com.example.newapp.ListActivity
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.example.newapp.videoplayer
+ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:23:9-27:62
+	android:screenOrientation
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:27:13-50
+	android:launchMode
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:25:13-44
+	android:configChanges
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml:23:19-46
 uses-sdk
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+MERGED from [com.github.iamporus:TypedTextView:1.0.4] /home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.iamporus:TypedTextView:1.0.4] /home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:Animatoo:master] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:Animatoo:master] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/yayy/.gradle/caches/transforms-2/files-2.1/0a664e39b54b68f6bca47f82a260fd14/AndroidManifest.xml:5:5-7:41
@@ -150,13 +177,15 @@ MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transfor
 MERGED from [android.arch.core:runtime:1.1.1] /home/yayy/.gradle/caches/transforms-2/files-2.1/bdbc8406f8951944e56f17299d594946/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /home/yayy/.gradle/caches/transforms-2/files-2.1/f5154cd00597bc924fd6b3a7af25eed1/AndroidManifest.xml:20:5-44
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+MERGED from [bg.devlabs.fullscreenvideoview:library:1.1.2] /home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/AndroidManifest.xml:22:5-24:41
+MERGED from [bg.devlabs.fullscreenvideoview:library:1.1.2] /home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		ADDED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yayy/Downloads/New App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		ADDED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yayy/Downloads/APTRI Labs/app/src/main/AndroidManifest.xml

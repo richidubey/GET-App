@@ -1,111 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="27"
-    build-mode="FULL"
+    abi="x86"
+    api-level="28"
+    build-mode="COLD"
     density="420dpi"
     format="10"
     plugin-version="3.4.1"
-    timestamp="1561113850009"
-    token="6890884594315835465"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="1561971148000"
+    token="-1134792641405356403"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="265" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="217" />
+        duration="0" />
     <task
         name="verifier"
-        duration="32" />
+        duration="0" />
 
     <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/yayy/Downloads/New App/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1561113850009"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="1561969959722"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/yayy/Downloads/New App/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1561971074156"
+        verifier="IMPLEMENTED_INTERFACES_CHANGE" >
+        <artifact
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1561971148000"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/yayy/Downloads/APTRI Labs/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

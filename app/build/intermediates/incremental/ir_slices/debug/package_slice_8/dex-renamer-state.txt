@@ -1,4 +1,4 @@
-#Fri Jun 21 16:14:15 IST 2019
-base.0=/home/yayy/Downloads/New App/app/build/intermediates/transforms/dexMerger/debug/8
+#Mon Jul 01 14:03:03 IST 2019
+base.0=/home/yayy/Downloads/APTRI Labs/app/build/intermediates/transforms/dexMerger/debug/8
 path.0=classes.dex
 renamed.0=classes.dex

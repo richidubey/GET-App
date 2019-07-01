@@ -18,6 +18,13 @@
         </activity>
         <activity android:name=".CoalMill"></activity>
         <activity android:name=".Grinding"></activity>
+        <activity android:name=".SuperCriticalBoilers"></activity>
+        <activity android:name=".ListActivity"></activity>
+        <activity android:name=".videoplayer"
+            android:configChanges="orientation|screenSize"
+            android:launchMode="singleTask"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:screenOrientation="landscape"></activity>
     </application>
 
 </manifest>

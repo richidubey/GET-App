@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.v4.widget.NestedScrollView android:id="@+id/scroll_home"
+    android:focusableInTouchMode="true"
+    android:scrollbars="none"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
-</LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/header"
+            android:text="Supercritical Boilers"
+            android:textSize="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"/>
+
+        <ImageSwitcher
+            android:id="@+id/imageswitcher"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:layout_marginTop="58dp" />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Previous"
+                android:id="@+id/prev"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="Next"
+                android:id="@+id/next"/>
+        </RelativeLayout>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/maintext"
+            android:layout_margin="20dp"
+            android:text="A supercritical steam generator is a type of boiler that operates at supercritical pressure, frequently used in the production of electric power. In contrast to a subcritical boiler in which bubbles can form, a supercritical steam generator operates at pressures above the critical pressure – 3,200 psi or 22 MPa."
+            android:textSize="25dp" />
+
+        <Button
+            android:id="@+id/buttonplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="videoplay"
+            android:text="Start" />
+
+        <com.sprylab.android.widget.TextureVideoView
+            android:id="@+id/videoview"
+            android:layout_width="match_parent"
+            android:layout_height="320dp" />
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

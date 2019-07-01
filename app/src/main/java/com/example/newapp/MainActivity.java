@@ -9,25 +9,35 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.VideoView;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
+import com.prush.typedtextview.TypedTextView;
+
 import org.w3c.dom.Text;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
-    private TextView coalclick;
-
+    TextView homebut ;
+    TypedTextView typedtext;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        coalclick = (TextView) findViewById(R.id.coalclick);
 
-        coalclick.setOnClickListener(this);
+        homebut=(TextView)findViewById(R.id.homebutton);
+        homebut.setOnClickListener(this);
+        typedtext=(TypedTextView)findViewById(R.id.typedtext);
+
+        typedtext.setTypedText("Welcome to APTRI Labs,\nan Educational App built at\nAdani Shantigram, Ahmedabad.");
     }
 
-    public void onClick(View view) {
-        if (view == coalclick) {
-            startActivity(new Intent(this, CoalMill.class));
+    public void onClick(View view)
+    {
+        if(view==homebut)
+        {
+            startActivity(new Intent(this,ListActivity.class));
+            Animatoo.animateSplit(this);
             finish();
         }
     }

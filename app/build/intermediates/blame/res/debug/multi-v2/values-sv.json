@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yayy/Downloads/New App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/home/yayy/Downloads/APTRI Labs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-sv/values-sv.xml",

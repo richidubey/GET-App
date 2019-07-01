@@ -1,98 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:fillViewport="false">
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:orientation="vertical"
-    >
-
-    <TextView
-        android:layout_marginTop="60dp"
-        android:id="@+id/coalclick"
-        android:layout_marginLeft="15dp"
-        android:layout_marginBottom="15dp"
+    android:orientation="vertical">
+    <com.prush.typedtextview.TypedTextView
+        android:layout_width="match_parent"
+        android:textSize="24dp"
+        android:layout_margin="25dp"
+        android:gravity="center"
+        android:id="@+id/typedtext"
+        app:randomize_typing_speed="true"
+        app:randomize_type_seed="75"
+        app:show_cursor="true"
+        app:cursor_blink_speed="530"
+        app:sentence_pause="1500"
+        app:split_sentences="true"
+        app:play_keystrokes_audio="true"
+        app:typing_speed="90"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/homebutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Coal Mill"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Deaerator"
-        android:textSize="20dp"/>
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Feedwater Heater"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Steam Turbine"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Transformer"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Generator"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Boiler Feed Pump"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Super Critical Boilers"
-        android:textSize="20dp"/>
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Sub Critical Boilers"
-        android:textSize="20dp"/>
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Cooling Tower"
-        android:textSize="20dp"/>
-
-    <TextView
-        android:layout_margin="15dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="HP Turbine"
-        android:textSize="20dp"/>
-
-
-
-
+        android:layout_gravity="center_horizontal"
+        android:text="Home"/>
 
 
 </LinearLayout>
-</ScrollView>

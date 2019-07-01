@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res"><file name="notification_template_custom_big" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/layout-v16/notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_bg_normal_pressed" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="bg.devlabs.fullscreenvideoview:library:1.1.2$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="bg.devlabs.fullscreenvideoview:library:1.1.2" from-dependency="true" generated-set="bg.devlabs.fullscreenvideoview:library:1.1.2$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res"><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_pause_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_fast_forward_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_fullscreen_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-hdpi-v4/ic_play_arrow_white_48dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_pause_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_fast_forward_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_fullscreen_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-ldpi-v4/ic_play_arrow_white_48dp.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_pause_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_fast_forward_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_fullscreen_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxhdpi-v4/ic_play_arrow_white_48dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_pause_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_fast_forward_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_fullscreen_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xxxhdpi-v4/ic_play_arrow_white_48dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/values/values.xml" qualifiers=""><color name="black">#000000</color><color name="transparent">#00ffffff</color><color name="white">#ffffff</color><string name="cd_background_image_view">Video thumbnail</string><string name="cd_forward_media_button">Forward media button</string><string name="cd_fullscreen_media_button">Fullscreen media button</string><string name="cd_pause_media_button">Pause media button</string><string name="cd_playback_speed_button">Playback speed button</string><string name="cd_rewind_media_button">Rewind media button</string><string name="media_error_general">General media player error.</string><string name="media_error_io">File or network related operation errors.</string><string name="media_error_malformed">
+        Bitstream is not conforming to the related coding standard or file spec.
+    </string><string name="media_error_not_valid_for_progressive_playback">
+        The video is streamed and its container is not valid for progressive playback i.e the
+        video\'s index (e.g moov atom) is not at the start of the file.
+    </string><string name="media_error_server_died">
+        Media server died. In this case, the application must release the MediaPlayer object and
+        instantiate a new one.
+    </string><string name="media_error_timed_out">
+        Some operation takes too long to complete, usually more than 3-5 seconds.
+    </string><string name="media_error_unknown">Unspecified media player error.</string><string name="media_error_unsupported">
+        Bitstream is conforming to the related coding standard or file spec, but the media
+        framework does not support the feature.
+    </string><string name="playback_speed_0_25">0.25x</string><string name="playback_speed_0_5">0.5x</string><string name="playback_speed_0_75">0.75x</string><string name="playback_speed_1">1x</string><string name="playback_speed_1_25">1.25x</string><string name="playback_speed_1_5">1.5x</string><string name="playback_speed_2">2x</string><declare-styleable name="VideoControllerView">
+        <attr format="reference" name="play_drawable"/>
+        <attr format="reference" name="pause_drawable"/>
+        <attr format="reference" name="enter_fullscreen_drawable"/>
+        <attr format="reference" name="exit_fullscreen_drawable"/>
+        <attr format="reference" name="ffwd_drawable"/>
+        <attr format="reference" name="rew_drawable"/>
+        <attr format="color" name="progress_color"/>
+    </declare-styleable></file><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_pause_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_play_arrow_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_fullscreen_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_fast_rewind_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_fast_forward_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-anydpi-v21/ic_fullscreen_exit_white_48dp.xml" qualifiers="anydpi-v21" type="drawable"/><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_pause_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_fast_forward_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_fullscreen_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-mdpi-v4/ic_play_arrow_white_48dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_pause_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_pause_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_fullscreen_exit_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_fullscreen_exit_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_fast_forward_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_fast_forward_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_fast_rewind_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_fast_rewind_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_fullscreen_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_fullscreen_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_play_arrow_white_48dp" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/drawable-xhdpi-v4/ic_play_arrow_white_48dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="fullscreen_video_view" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/layout/fullscreen_video_view.xml" qualifiers="" type="layout"/><file name="video_controller" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/dc70eba6d7db1a2c68b44406d9f87628/res/layout/video_controller.xml" qualifiers="" type="layout"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res"><file name="notification_template_custom_big" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/layout-v16/notification_template_custom_big.xml" qualifiers="v16" type="layout"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file name="notification_bg_normal_pressed" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_normal" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notify_panel_notification_icon_bg" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_pressed" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_bg_low_normal" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/drawable-hdpi-v4/notification_bg_low_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/a01bdfa38c6ae9b36b6b2ac7bb5e3626/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
         <item name="android:background">@drawable/notification_action_background</item>
     </style><style name="Widget.Compat.NotificationActionText" parent="">
         <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
@@ -2668,12 +2689,23 @@
         <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
 
         <item name="controlBackground">@drawable/abc_control_background_material</item>
-    </style><style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="android:Widget.Material.Button.Borderless.Colored"/><style name="Base.Widget.AppCompat.Button.Colored" parent="android:Widget.Material.Button.Colored"/><style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="android:Widget.Material.RatingBar.Indicator"/><style name="Base.Widget.AppCompat.RatingBar.Small" parent="android:Widget.Material.RatingBar.Small"/><style name="Base.Widget.AppCompat.Spinner.Underlined" parent="android:Widget.Material.Spinner.Underlined"/></file><file name="select_dialog_singlechoice_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_singlechoice_material.xml" qualifiers="" type="layout"/><file name="abc_popup_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_popup_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_action_bar_up_container" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_bar_up_container.xml" qualifiers="" type="layout"/><file name="abc_dialog_title_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_dialog_title_material.xml" qualifiers="" type="layout"/><file name="abc_screen_simple_overlay_action_mode" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_simple_overlay_action_mode.xml" qualifiers="" type="layout"/><file name="support_simple_spinner_dropdown_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/support_simple_spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="abc_popup_menu_header_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_popup_menu_header_item_layout.xml" qualifiers="" type="layout"/><file name="abc_tooltip" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_tooltip.xml" qualifiers="" type="layout"/><file name="abc_screen_content_include" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_content_include.xml" qualifiers="" type="layout"/><file name="abc_expanded_menu_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_expanded_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view.xml" qualifiers="" type="layout"/><file name="abc_action_menu_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_icon" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_icon.xml" qualifiers="" type="layout"/><file name="abc_action_mode_bar" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_mode_bar.xml" qualifiers="" type="layout"/><file name="select_dialog_multichoice_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_multichoice_material.xml" qualifiers="" type="layout"/><file name="select_dialog_item_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_item_material.xml" qualifiers="" type="layout"/><file name="abc_action_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_checkbox" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_checkbox.xml" qualifiers="" type="layout"/><file name="abc_search_view" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_search_view.xml" qualifiers="" type="layout"/><file name="abc_screen_toolbar" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_toolbar.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view_list_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view_list_item.xml" qualifiers="" type="layout"/><file name="abc_select_dialog_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_select_dialog_material.xml" qualifiers="" type="layout"/><file name="abc_cascading_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_cascading_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_material.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_title_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_title_material.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_radio" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_radio.xml" qualifiers="" type="layout"/><file name="abc_action_mode_close_item_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_mode_close_item_material.xml" qualifiers="" type="layout"/><file name="abc_screen_simple" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_simple.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_search_dropdown_item_icons_2line" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_search_dropdown_item_icons_2line.xml" qualifiers="" type="layout"/><file name="abc_action_bar_title_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_bar_title_item.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_button_bar_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_button_bar_material.xml" qualifiers="" type="layout"/><file name="abc_action_bar_item_background_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_action_bar_item_background_material.xml" qualifiers="v21" type="drawable"/><file name="abc_btn_colored_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_btn_colored_material.xml" qualifiers="v21" type="drawable"/><file name="abc_dialog_material_background" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_dialog_material_background.xml" qualifiers="v21" type="drawable"/><file name="abc_list_divider_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_list_divider_material.xml" qualifiers="v21" type="drawable"/><file name="abc_edit_text_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_edit_text_material.xml" qualifiers="v21" type="drawable"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string><string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string><string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string><string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string><string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string><string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string><string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string><string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string><string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string><string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string><string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string><string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"razmaknica"</string><string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string><string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string><string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string><string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string><string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string><string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string><string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string><string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string><string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string><string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string><string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-port/values-port.xml" qualifiers="port"><bool name="abc_action_bar_embed_tabs">false</bool></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-as/values-as.xml" qualifiers="as"><string msgid="4600421777120114993" name="abc_action_bar_home_description">"গৃহ পৃষ্ঠালৈ যাওক"</string><string msgid="1594238315039666878" name="abc_action_bar_up_description">"ওপৰলৈ যাওক"</string><string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"অধিক বিকল্প"</string><string msgid="4076576682505996667" name="abc_action_mode_done">"সম্পন্ন কৰা হ\'ল"</string><string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"সকলো চাওক"</string><string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"এটা এপ্ বাছনি কৰক"</string><string msgid="121134116657445385" name="abc_capital_off">"অফ কৰক"</string><string msgid="3405795526292276155" name="abc_capital_on">"অন কৰক"</string><string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"CTRL+"</string><string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"মচক"</string><string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"এণ্টাৰ"</string><string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"ফাংশ্বন+"</string><string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"মেটা+"</string><string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"শ্বিফ্ট+"</string><string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"স্পেচ"</string><string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"মেনু+"</string><string msgid="7723749260725869598" name="abc_search_hint">"অনুসন্ধান কৰক…"</string><string msgid="3691816814315814921" name="abc_searchview_description_clear">"প্ৰশ্ন মচক"</string><string msgid="2550479030709304392" name="abc_searchview_description_query">"সন্ধান কৰিব খোজা প্ৰশ্ন"</string><string msgid="8264924765203268293" name="abc_searchview_description_search">"সন্ধান কৰক"</string><string msgid="8928215447528550784" name="abc_searchview_description_submit">"প্ৰশ্ন দাখিল কৰক"</string><string msgid="893419373245838918" name="abc_searchview_description_voice">"কণ্ঠধ্বনিৰ যোগেৰে সন্ধান কৰক"</string><string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক"</string><string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>ৰ জৰিয়তে শ্বেয়াৰ কৰক"</string><string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"সংকুচিত কৰক"</string><string msgid="146198913615257606" name="search_menu_title">"অনুসন্ধান কৰক"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/New App/app/src/main/res"><file path="/home/yayy/Downloads/New App/app/src/main/res/drawable/ic_launcher_background.xml" preprocessing="true" qualifiers=""><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png" qualifiers="xxxhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png" qualifiers="mdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png" qualifiers="ldpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png" qualifiers="xxhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png" qualifiers="hdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png" qualifiers="xhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/New App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml" qualifiers="anydpi-v21" type="drawable"/></file></source><source path="/home/yayy/Downloads/New App/app/src/main/res/raw"/><source path="/home/yayy/Downloads/New App/app/build/generated/res/rs/debug"/><source path="/home/yayy/Downloads/New App/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/New App/app/src/main/res"><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="a" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/a.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="a2" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/a2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="c" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/c.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="b" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/b.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="c2" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/c2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="b2" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-xxxhdpi/b2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="/home/yayy/Downloads/New App/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color></file><file path="/home/yayy/Downloads/New App/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style><style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="android:Widget.Material.Button.Borderless.Colored"/><style name="Base.Widget.AppCompat.Button.Colored" parent="android:Widget.Material.Button.Colored"/><style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="android:Widget.Material.RatingBar.Indicator"/><style name="Base.Widget.AppCompat.RatingBar.Small" parent="android:Widget.Material.RatingBar.Small"/><style name="Base.Widget.AppCompat.Spinner.Underlined" parent="android:Widget.Material.Spinner.Underlined"/></file><file name="select_dialog_singlechoice_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_singlechoice_material.xml" qualifiers="" type="layout"/><file name="abc_popup_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_popup_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_action_bar_up_container" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_bar_up_container.xml" qualifiers="" type="layout"/><file name="abc_dialog_title_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_dialog_title_material.xml" qualifiers="" type="layout"/><file name="abc_screen_simple_overlay_action_mode" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_simple_overlay_action_mode.xml" qualifiers="" type="layout"/><file name="support_simple_spinner_dropdown_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/support_simple_spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="abc_popup_menu_header_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_popup_menu_header_item_layout.xml" qualifiers="" type="layout"/><file name="abc_tooltip" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_tooltip.xml" qualifiers="" type="layout"/><file name="abc_screen_content_include" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_content_include.xml" qualifiers="" type="layout"/><file name="abc_expanded_menu_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_expanded_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view.xml" qualifiers="" type="layout"/><file name="abc_action_menu_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_icon" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_icon.xml" qualifiers="" type="layout"/><file name="abc_action_mode_bar" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_mode_bar.xml" qualifiers="" type="layout"/><file name="select_dialog_multichoice_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_multichoice_material.xml" qualifiers="" type="layout"/><file name="select_dialog_item_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/select_dialog_item_material.xml" qualifiers="" type="layout"/><file name="abc_action_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_checkbox" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_checkbox.xml" qualifiers="" type="layout"/><file name="abc_search_view" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_search_view.xml" qualifiers="" type="layout"/><file name="abc_screen_toolbar" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_toolbar.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view_list_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_activity_chooser_view_list_item.xml" qualifiers="" type="layout"/><file name="abc_select_dialog_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_select_dialog_material.xml" qualifiers="" type="layout"/><file name="abc_cascading_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_cascading_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_material.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_title_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_title_material.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_radio" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_radio.xml" qualifiers="" type="layout"/><file name="abc_action_mode_close_item_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_mode_close_item_material.xml" qualifiers="" type="layout"/><file name="abc_screen_simple" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_screen_simple.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_layout" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_list_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_search_dropdown_item_icons_2line" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_search_dropdown_item_icons_2line.xml" qualifiers="" type="layout"/><file name="abc_action_bar_title_item" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_action_bar_title_item.xml" qualifiers="" type="layout"/><file name="abc_alert_dialog_button_bar_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/layout/abc_alert_dialog_button_bar_material.xml" qualifiers="" type="layout"/><file name="abc_action_bar_item_background_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_action_bar_item_background_material.xml" qualifiers="v21" type="drawable"/><file name="abc_btn_colored_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_btn_colored_material.xml" qualifiers="v21" type="drawable"/><file name="abc_dialog_material_background" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_dialog_material_background.xml" qualifiers="v21" type="drawable"/><file name="abc_list_divider_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_list_divider_material.xml" qualifiers="v21" type="drawable"/><file name="abc_edit_text_material" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/drawable-v21/abc_edit_text_material.xml" qualifiers="v21" type="drawable"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string><string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string><string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string><string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string><string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string><string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string><string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string><string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string><string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string><string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string><string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string><string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"razmaknica"</string><string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string><string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string><string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string><string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string><string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string><string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string><string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string><string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string><string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string><string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string><string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-port/values-port.xml" qualifiers="port"><bool name="abc_action_bar_embed_tabs">false</bool></file><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/9695c7726f1c8efb8d08b507da34bade/res/values-as/values-as.xml" qualifiers="as"><string msgid="4600421777120114993" name="abc_action_bar_home_description">"গৃহ পৃষ্ঠালৈ যাওক"</string><string msgid="1594238315039666878" name="abc_action_bar_up_description">"ওপৰলৈ যাওক"</string><string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"অধিক বিকল্প"</string><string msgid="4076576682505996667" name="abc_action_mode_done">"সম্পন্ন কৰা হ\'ল"</string><string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"সকলো চাওক"</string><string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"এটা এপ্ বাছনি কৰক"</string><string msgid="121134116657445385" name="abc_capital_off">"অফ কৰক"</string><string msgid="3405795526292276155" name="abc_capital_on">"অন কৰক"</string><string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"CTRL+"</string><string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"মচক"</string><string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"এণ্টাৰ"</string><string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"ফাংশ্বন+"</string><string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"মেটা+"</string><string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"শ্বিফ্ট+"</string><string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"স্পেচ"</string><string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"মেনু+"</string><string msgid="7723749260725869598" name="abc_search_hint">"অনুসন্ধান কৰক…"</string><string msgid="3691816814315814921" name="abc_searchview_description_clear">"প্ৰশ্ন মচক"</string><string msgid="2550479030709304392" name="abc_searchview_description_query">"সন্ধান কৰিব খোজা প্ৰশ্ন"</string><string msgid="8264924765203268293" name="abc_searchview_description_search">"সন্ধান কৰক"</string><string msgid="8928215447528550784" name="abc_searchview_description_submit">"প্ৰশ্ন দাখিল কৰক"</string><string msgid="893419373245838918" name="abc_searchview_description_voice">"কণ্ঠধ্বনিৰ যোগেৰে সন্ধান কৰক"</string><string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক"</string><string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>ৰ জৰিয়তে শ্বেয়াৰ কৰক"</string><string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"সংকুচিত কৰক"</string><string msgid="146198913615257606" name="search_menu_title">"অনুসন্ধান কৰক"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.github.mohammadatif:Animatoo:master$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.github.mohammadatif:Animatoo:master" from-dependency="true" generated-set="com.github.mohammadatif:Animatoo:master$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res"><file name="animate_spin_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_spin_enter.xml" qualifiers="" type="anim"/><file name="animate_shrink_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_shrink_exit.xml" qualifiers="" type="anim"/><file name="animate_diagonal_right_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_diagonal_right_exit.xml" qualifiers="" type="anim"/><file name="animate_windmill_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_windmill_enter.xml" qualifiers="" type="anim"/><file name="animate_spin_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_spin_exit.xml" qualifiers="" type="anim"/><file name="animate_slide_up_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_up_enter.xml" qualifiers="" type="anim"/><file name="animate_split_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_split_exit.xml" qualifiers="" type="anim"/><file name="animate_fade_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_fade_exit.xml" qualifiers="" type="anim"/><file name="animate_slide_down_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_down_exit.xml" qualifiers="" type="anim"/><file name="animate_zoom_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_zoom_enter.xml" qualifiers="" type="anim"/><file name="animate_shrink_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_shrink_enter.xml" qualifiers="" type="anim"/><file name="animate_zoom_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_zoom_exit.xml" qualifiers="" type="anim"/><file name="animate_swipe_right_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_swipe_right_exit.xml" qualifiers="" type="anim"/><file name="animate_split_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_split_enter.xml" qualifiers="" type="anim"/><file name="animate_swipe_right_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_swipe_right_enter.xml" qualifiers="" type="anim"/><file name="animate_slide_out_right" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_out_right.xml" qualifiers="" type="anim"/><file name="animate_slide_left_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_left_enter.xml" qualifiers="" type="anim"/><file name="animate_in_out_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_in_out_enter.xml" qualifiers="" type="anim"/><file name="animate_in_out_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_in_out_exit.xml" qualifiers="" type="anim"/><file name="animate_diagonal_right_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_diagonal_right_enter.xml" qualifiers="" type="anim"/><file name="animate_slide_left_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_left_exit.xml" qualifiers="" type="anim"/><file name="animate_swipe_left_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_swipe_left_exit.xml" qualifiers="" type="anim"/><file name="animate_slide_in_left" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_in_left.xml" qualifiers="" type="anim"/><file name="animate_fade_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_fade_enter.xml" qualifiers="" type="anim"/><file name="animate_slide_up_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_up_exit.xml" qualifiers="" type="anim"/><file name="animate_slide_down_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_slide_down_enter.xml" qualifiers="" type="anim"/><file name="animate_card_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_card_enter.xml" qualifiers="" type="anim"/><file name="animate_card_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_card_exit.xml" qualifiers="" type="anim"/><file name="animate_windmill_exit" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_windmill_exit.xml" qualifiers="" type="anim"/><file name="animate_swipe_left_enter" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/anim/animate_swipe_left_enter.xml" qualifiers="" type="anim"/><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/0a94498180c59ad586fa15e96b883091/res/values/values.xml" qualifiers=""><string name="app_name">Animatoo</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.github.iamporus:TypedTextView:1.0.4$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.github.iamporus:TypedTextView:1.0.4" from-dependency="true" generated-set="com.github.iamporus:TypedTextView:1.0.4$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/res"><file path="/home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/res/values/values.xml" qualifiers=""><declare-styleable name="TypedTextView">
+        <attr format="integer" name="sentence_pause"/>
+        <attr format="integer" name="cursor_blink_speed"/>
+        <attr format="integer" name="randomize_type_seed"/>
+        <attr format="integer" name="typing_speed"/>
+        <attr format="boolean" name="show_cursor"/>
+        <attr format="boolean" name="split_sentences"/>
+        <attr format="boolean" name="randomize_typing_speed"/>
+        <attr format="string" name="typed_text"/>
+        <attr format="boolean" name="play_keystrokes_audio"/>
+        <attr format="reference" name="play_keystrokes_audio_res"/>
+    </declare-styleable></file><file name="keystrokes" path="/home/yayy/.gradle/caches/transforms-2/files-2.1/57ab65d0ec9379dda00dc124023148d8/res/raw/keystrokes.mp3" qualifiers="" type="raw"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/APTRI Labs/app/src/main/res"><file path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/drawable/ic_launcher_background.xml" preprocessing="true" qualifiers=""><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png" qualifiers="xxxhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png" qualifiers="mdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png" qualifiers="ldpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png" qualifiers="xxhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png" qualifiers="hdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png" qualifiers="xhdpi-v4" type="drawable"/><generated-file path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml" qualifiers="anydpi-v21" type="drawable"/></file></source><source path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw"/><source path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/rs/debug"/><source path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/APTRI Labs/app/src/main/res"><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="c3" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/c3.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="a" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/a.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="a2" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/a2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="c" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/c.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="b" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/b.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="b3" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/b3.gif" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="c2" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/c2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="b2" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/b2.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="a3" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-xxxhdpi/a3.jpg" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="logo" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/drawable/logo.jpeg" qualifiers="" type="drawable"/><file path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color></file><file path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style></file><file path="/home/yayy/Downloads/New App/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">New App</string></file><file name="ic_launcher_foreground" path="/home/yayy/Downloads/New App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/New App/app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="subcriticalboilers" path="/home/yayy/Downloads/New App/app/src/main/res/layout/subcriticalboilers.xml" qualifiers="" type="layout"/><file name="steamturbine" path="/home/yayy/Downloads/New App/app/src/main/res/layout/steamturbine.xml" qualifiers="" type="layout"/><file name="fullscreen" path="/home/yayy/Downloads/New App/app/src/main/res/layout/fullscreen.xml" qualifiers="" type="layout"/><file name="grinding" path="/home/yayy/Downloads/New App/app/src/main/res/layout/grinding.xml" qualifiers="" type="layout"/><file name="deaerator" path="/home/yayy/Downloads/New App/app/src/main/res/layout/deaerator.xml" qualifiers="" type="layout"/><file name="transformer" path="/home/yayy/Downloads/New App/app/src/main/res/layout/transformer.xml" qualifiers="" type="layout"/><file name="hpturbine" path="/home/yayy/Downloads/New App/app/src/main/res/layout/hpturbine.xml" qualifiers="" type="layout"/><file name="generator" path="/home/yayy/Downloads/New App/app/src/main/res/layout/generator.xml" qualifiers="" type="layout"/><file name="boilerfeedpump" path="/home/yayy/Downloads/New App/app/src/main/res/layout/boilerfeedpump.xml" qualifiers="" type="layout"/><file name="coalmill" path="/home/yayy/Downloads/New App/app/src/main/res/layout/coalmill.xml" qualifiers="" type="layout"/><file name="feedwaterheater" path="/home/yayy/Downloads/New App/app/src/main/res/layout/feedwaterheater.xml" qualifiers="" type="layout"/><file name="coolingtowers" path="/home/yayy/Downloads/New App/app/src/main/res/layout/coolingtowers.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/yayy/Downloads/New App/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="supercriticalboilers" path="/home/yayy/Downloads/New App/app/src/main/res/layout/supercriticalboilers.xml" qualifiers="" type="layout"/><file name="subcritical" path="/home/yayy/Downloads/New App/app/src/main/res/raw/subcritical.mp4" qualifiers="" type="raw"/><file name="grind" path="/home/yayy/Downloads/New App/app/src/main/res/raw/grind.mp4" qualifiers="" type="raw"/><file name="coalmill" path="/home/yayy/Downloads/New App/app/src/main/res/raw/coalmill.mp4" qualifiers="" type="raw"/></source><source path="/home/yayy/Downloads/New App/app/src/main/res/raw"/><source path="/home/yayy/Downloads/New App/app/build/generated/res/rs/debug"/><source path="/home/yayy/Downloads/New App/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/New App/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/New App/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
+    </style></file><file path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/values/ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#FFFFFF</color></file><file path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">APTRI Labs</string></file><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="subcriticalboilers" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/subcriticalboilers.xml" qualifiers="" type="layout"/><file name="steamturbine" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/steamturbine.xml" qualifiers="" type="layout"/><file name="fullscreen" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/fullscreen.xml" qualifiers="" type="layout"/><file name="grinding" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/grinding.xml" qualifiers="" type="layout"/><file name="deaerator" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/deaerator.xml" qualifiers="" type="layout"/><file name="listactivity" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/listactivity.xml" qualifiers="" type="layout"/><file name="videoplayer" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/videoplayer.xml" qualifiers="" type="layout"/><file name="transformer" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/transformer.xml" qualifiers="" type="layout"/><file name="hpturbine" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/hpturbine.xml" qualifiers="" type="layout"/><file name="generator" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/generator.xml" qualifiers="" type="layout"/><file name="boilerfeedpump" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/boilerfeedpump.xml" qualifiers="" type="layout"/><file name="coalmill" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/coalmill.xml" qualifiers="" type="layout"/><file name="feedwaterheater" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/feedwaterheater.xml" qualifiers="" type="layout"/><file name="coolingtowers" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/coolingtowers.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="supercriticalboilers" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/layout/supercriticalboilers.xml" qualifiers="" type="layout"/><file name="subcritical" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw/subcritical.mp4" qualifiers="" type="raw"/><file name="grind" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw/grind.mp4" qualifiers="" type="raw"/><file name="coalmill" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw/coalmill.mp4" qualifiers="" type="raw"/><file name="supercritically" path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw/supercritically.mp4" qualifiers="" type="raw"/></source><source path="/home/yayy/Downloads/APTRI Labs/app/src/main/res/raw"/><source path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/rs/debug"/><source path="/home/yayy/Downloads/APTRI Labs/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/APTRI Labs/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/yayy/Downloads/APTRI Labs/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
         <attr format="reference" name="listLayout"/>
@@ -2812,87 +2844,11 @@
 
         
         <attr name="android:tileMode"/>
-    </declare-styleable><declare-styleable name="AnimatedStateListDrawableCompat">
-        
-        <attr name="android:visible"/>
-        
-        <attr name="android:variablePadding"/>
-        
-        <attr name="android:constantSize"/>
-        
-        <attr name="android:dither"/>
-        
-        <attr name="android:enterFadeDuration"/>
-        
-        <attr name="android:exitFadeDuration"/>
-        
-        
-    </declare-styleable><declare-styleable name="ColorStateListItem">
-        
-        <attr name="android:color"/>
-        
-        <attr format="float" name="alpha"/>
-        <attr name="android:alpha"/>
-    </declare-styleable><declare-styleable name="Spinner">
-        
-        <attr name="android:prompt"/>
-        
-        <attr name="popupTheme"/>
-        
-        <attr name="android:popupBackground"/>
-        
-        <attr name="android:dropDownWidth"/>
-        
-        <attr name="android:entries"/>
-    </declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="PopupWindow">
-        
-        <attr format="boolean" name="overlapAnchor"/>
-        <attr name="android:popupBackground"/>
-        <attr name="android:popupAnimationStyle"/>
     </declare-styleable><declare-styleable name="AnimatedStateListDrawableItem">
         
         <attr name="android:drawable"/>
         
         <attr name="android:id"/>
-    </declare-styleable><declare-styleable name="DrawerArrowToggle">
-        
-        <attr format="color" name="color"/>
-        
-        <attr format="boolean" name="spinBars"/>
-        
-        <attr format="dimension" name="drawableSize"/>
-        
-        <attr format="dimension" name="gapBetweenBars"/>
-        
-        <attr format="dimension" name="arrowHeadLength"/>
-        
-        <attr format="dimension" name="arrowShaftLength"/>
-        
-        <attr format="dimension" name="barLength"/>
-        
-        <attr format="dimension" name="thickness"/>
-    </declare-styleable><declare-styleable name="ActionBarLayout">
-        <attr name="android:layout_gravity"/>
-    </declare-styleable><declare-styleable name="StateListDrawable">
-        
-        <attr name="android:visible"/>
-        
-        <attr name="android:variablePadding"/>
-        
-        <attr name="android:constantSize"/>
-        
-        <attr name="android:dither"/>
-        
-        <attr name="android:enterFadeDuration"/>
-        
-        <attr name="android:exitFadeDuration"/>
-        
-        
-    </declare-styleable><declare-styleable name="ActivityChooserView">
-        
-        <attr format="string" name="initialActivityCount"/>
-        
-        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
     </declare-styleable><declare-styleable name="GradientColorItem">
         
         <attr name="android:offset"/>
@@ -3240,31 +3196,6 @@
         <attr format="reference|color" name="colorError"/>
 
         <attr format="string" name="viewInflaterClass"/>
-    </declare-styleable><declare-styleable name="ViewStubCompat">
-        
-        <attr name="android:layout"/>
-        
-        <attr name="android:inflatedId"/>
-        <attr name="android:id"/>
-    </declare-styleable><declare-styleable name="ListPopupWindow">
-        
-        <attr name="android:dropDownVerticalOffset"/>
-        
-        <attr name="android:dropDownHorizontalOffset"/>
-    </declare-styleable><declare-styleable name="TextAppearance">
-        <attr name="android:textSize"/>
-        <attr name="android:textColor"/>
-        <attr name="android:textColorHint"/>
-        <attr name="android:textColorLink"/>
-        <attr name="android:textStyle"/>
-        <attr name="android:typeface"/>
-        <attr name="android:fontFamily"/>
-        <attr name="fontFamily"/>
-        <attr name="textAllCaps"/>
-        <attr name="android:shadowColor"/>
-        <attr name="android:shadowDy"/>
-        <attr name="android:shadowDx"/>
-        <attr name="android:shadowRadius"/>
     </declare-styleable><declare-styleable name="MenuView">
         
         <attr name="android:itemTextAppearance"/>
@@ -3284,6 +3215,17 @@
         <attr format="boolean" name="preserveIconSpacing"/>
         
         <attr format="reference" name="subMenuArrow"/>
+    </declare-styleable><declare-styleable name="TypedTextView">
+        <attr format="integer" name="sentence_pause"/>
+        <attr format="integer" name="cursor_blink_speed"/>
+        <attr format="integer" name="randomize_type_seed"/>
+        <attr format="integer" name="typing_speed"/>
+        <attr format="boolean" name="show_cursor"/>
+        <attr format="boolean" name="split_sentences"/>
+        <attr format="boolean" name="randomize_typing_speed"/>
+        <attr format="string" name="typed_text"/>
+        <attr format="boolean" name="play_keystrokes_audio"/>
+        <attr format="reference" name="play_keystrokes_audio_res"/>
     </declare-styleable><declare-styleable name="RecycleListView">
         
         <attr format="dimension" name="paddingBottomNoButtons"/>
@@ -3363,26 +3305,6 @@
         <attr format="dimension" name="elevation"/>
         
         <attr format="reference" name="popupTheme"/>
-    </declare-styleable><declare-styleable name="MenuGroup">
-
-        
-        <attr name="android:id"/>
-
-        
-        <attr name="android:menuCategory"/>
-
-        
-        <attr name="android:orderInCategory"/>
-
-        
-        <attr name="android:checkableBehavior"/>
-
-        
-        <attr name="android:visible"/>
-
-        
-        <attr name="android:enabled"/>
-
     </declare-styleable><declare-styleable name="ActionMenuItemView">
         <attr name="android:minWidth"/>
     </declare-styleable><declare-styleable name="Toolbar">
@@ -3440,27 +3362,6 @@
         <attr name="android:layout_height"/>
         <attr name="android:layout_weight"/>
         <attr name="android:layout_gravity"/>
-    </declare-styleable><declare-styleable name="FontFamily">
-        
-        <attr format="string" name="fontProviderAuthority"/>
-        
-        <attr format="string" name="fontProviderPackage"/>
-        
-        <attr format="string" name="fontProviderQuery"/>
-        
-        <attr format="reference" name="fontProviderCerts"/>
-        
-        <attr name="fontProviderFetchStrategy">
-            
-            <enum name="blocking" value="0"/>
-            
-            <enum name="async" value="1"/>
-        </attr>
-        
-        <attr format="integer" name="fontProviderFetchTimeout">
-            
-            <enum name="forever" value="-1"/>
-        </attr>
     </declare-styleable><declare-styleable name="StateListDrawableItem">
         
         <attr name="android:drawable"/>
@@ -3491,6 +3392,273 @@
         <attr format="dimension" name="firstBaselineToTopHeight"/>
         
         <attr format="dimension" name="lastBaselineToBottomHeight"/>
+    </declare-styleable><declare-styleable name="ButtonBarLayout">
+        
+        <attr format="boolean" name="allowStacking"/>
+    </declare-styleable><declare-styleable name="ViewBackgroundHelper">
+        <attr name="android:background"/>
+        
+        <attr format="color" name="backgroundTint"/>
+
+        
+        <attr name="backgroundTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="VideoControllerView">
+        <attr format="reference" name="play_drawable"/>
+        <attr format="reference" name="pause_drawable"/>
+        <attr format="reference" name="enter_fullscreen_drawable"/>
+        <attr format="reference" name="exit_fullscreen_drawable"/>
+        <attr format="reference" name="ffwd_drawable"/>
+        <attr format="reference" name="rew_drawable"/>
+        <attr format="color" name="progress_color"/>
+    </declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="AppCompatImageView">
+        <attr name="android:src"/>
+        
+        <attr format="reference" name="srcCompat"/>
+
+        
+        <attr format="color" name="tint"/>
+
+        
+        <attr name="tintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="PopupWindowBackgroundState">
+        
+        <attr format="boolean" name="state_above_anchor"/>
+    </declare-styleable><declare-styleable name="ActionMode">
+        
+        <attr name="titleTextStyle"/>
+        
+        <attr name="subtitleTextStyle"/>
+        
+        <attr name="background"/>
+        
+        <attr name="backgroundSplit"/>
+        
+        <attr name="height"/>
+        
+        <attr format="reference" name="closeItemLayout"/>
+    </declare-styleable><declare-styleable name="SwitchCompat">
+        
+        <attr name="android:thumb"/>
+        
+        <attr format="color" name="thumbTint"/>
+        
+        <attr name="thumbTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+        
+        <attr format="reference" name="track"/>
+        
+        <attr format="color" name="trackTint"/>
+        
+        <attr name="trackTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+        
+        <attr name="android:textOn"/>
+        
+        <attr name="android:textOff"/>
+        
+        <attr format="dimension" name="thumbTextPadding"/>
+        
+        <attr format="reference" name="switchTextAppearance"/>
+        
+        <attr format="dimension" name="switchMinWidth"/>
+        
+        <attr format="dimension" name="switchPadding"/>
+        
+        <attr format="boolean" name="splitTrack"/>
+        
+        <attr format="boolean" name="showText"/>
+    </declare-styleable><declare-styleable name="AnimatedStateListDrawableCompat">
+        
+        <attr name="android:visible"/>
+        
+        <attr name="android:variablePadding"/>
+        
+        <attr name="android:constantSize"/>
+        
+        <attr name="android:dither"/>
+        
+        <attr name="android:enterFadeDuration"/>
+        
+        <attr name="android:exitFadeDuration"/>
+        
+        
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="Spinner">
+        
+        <attr name="android:prompt"/>
+        
+        <attr name="popupTheme"/>
+        
+        <attr name="android:popupBackground"/>
+        
+        <attr name="android:dropDownWidth"/>
+        
+        <attr name="android:entries"/>
+    </declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="PopupWindow">
+        
+        <attr format="boolean" name="overlapAnchor"/>
+        <attr name="android:popupBackground"/>
+        <attr name="android:popupAnimationStyle"/>
+    </declare-styleable><declare-styleable name="DrawerArrowToggle">
+        
+        <attr format="color" name="color"/>
+        
+        <attr format="boolean" name="spinBars"/>
+        
+        <attr format="dimension" name="drawableSize"/>
+        
+        <attr format="dimension" name="gapBetweenBars"/>
+        
+        <attr format="dimension" name="arrowHeadLength"/>
+        
+        <attr format="dimension" name="arrowShaftLength"/>
+        
+        <attr format="dimension" name="barLength"/>
+        
+        <attr format="dimension" name="thickness"/>
+    </declare-styleable><declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity"/>
+    </declare-styleable><declare-styleable name="StateListDrawable">
+        
+        <attr name="android:visible"/>
+        
+        <attr name="android:variablePadding"/>
+        
+        <attr name="android:constantSize"/>
+        
+        <attr name="android:dither"/>
+        
+        <attr name="android:enterFadeDuration"/>
+        
+        <attr name="android:exitFadeDuration"/>
+        
+        
+    </declare-styleable><declare-styleable name="ActivityChooserView">
+        
+        <attr format="string" name="initialActivityCount"/>
+        
+        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
+    </declare-styleable><declare-styleable name="ViewStubCompat">
+        
+        <attr name="android:layout"/>
+        
+        <attr name="android:inflatedId"/>
+        <attr name="android:id"/>
+    </declare-styleable><declare-styleable name="ListPopupWindow">
+        
+        <attr name="android:dropDownVerticalOffset"/>
+        
+        <attr name="android:dropDownHorizontalOffset"/>
+    </declare-styleable><declare-styleable name="TextAppearance">
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr name="android:textColorHint"/>
+        <attr name="android:textColorLink"/>
+        <attr name="android:textStyle"/>
+        <attr name="android:typeface"/>
+        <attr name="android:fontFamily"/>
+        <attr name="fontFamily"/>
+        <attr name="textAllCaps"/>
+        <attr name="android:shadowColor"/>
+        <attr name="android:shadowDy"/>
+        <attr name="android:shadowDx"/>
+        <attr name="android:shadowRadius"/>
+    </declare-styleable><declare-styleable name="MenuGroup">
+
+        
+        <attr name="android:id"/>
+
+        
+        <attr name="android:menuCategory"/>
+
+        
+        <attr name="android:orderInCategory"/>
+
+        
+        <attr name="android:checkableBehavior"/>
+
+        
+        <attr name="android:visible"/>
+
+        
+        <attr name="android:enabled"/>
+
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
     </declare-styleable><declare-styleable name="MenuItem">
 
         
@@ -3600,30 +3768,7 @@
             <enum name="add" value="16"/>
         </attr>
 
-    </declare-styleable><declare-styleable name="ButtonBarLayout">
-        
-        <attr format="boolean" name="allowStacking"/>
-    </declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable><declare-styleable name="ViewBackgroundHelper">
-        <attr name="android:background"/>
-        
-        <attr format="color" name="backgroundTint"/>
-
-        
-        <attr name="backgroundTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-    </declare-styleable><declare-styleable name="AnimatedStateListDrawableTransition">
+    </declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable><declare-styleable name="AnimatedStateListDrawableTransition">
         
         <attr name="android:fromId"/>
         
@@ -3632,29 +3777,6 @@
         <attr name="android:drawable"/>
         
         <attr name="android:reversible"/>
-    </declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="AppCompatImageView">
-        <attr name="android:src"/>
-        
-        <attr format="reference" name="srcCompat"/>
-
-        
-        <attr format="color" name="tint"/>
-
-        
-        <attr name="tintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
     </declare-styleable><declare-styleable name="View">
         
         <attr format="dimension" name="paddingStart"/>
@@ -3666,9 +3788,6 @@
         <attr format="reference" name="theme"/>
         
         <attr name="android:theme"/>
-    </declare-styleable><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="PopupWindowBackgroundState">
-        
-        <attr format="boolean" name="state_above_anchor"/>
     </declare-styleable><declare-styleable name="CoordinatorLayout">
         
         <attr format="reference" name="keylines"/>
@@ -3751,19 +3870,6 @@
         
         <attr format="reference" name="submitBackground"/>
         <attr name="android:focusable"/>
-    </declare-styleable><declare-styleable name="ActionMode">
-        
-        <attr name="titleTextStyle"/>
-        
-        <attr name="subtitleTextStyle"/>
-        
-        <attr name="background"/>
-        
-        <attr name="backgroundSplit"/>
-        
-        <attr name="height"/>
-        
-        <attr format="reference" name="closeItemLayout"/>
     </declare-styleable><declare-styleable name="ActionMenuView">
         
     </declare-styleable><declare-styleable name="CompoundButton">
@@ -3786,61 +3892,6 @@
             
             <enum name="add" value="16"/>
         </attr>
-    </declare-styleable><declare-styleable name="SwitchCompat">
-        
-        <attr name="android:thumb"/>
-        
-        <attr format="color" name="thumbTint"/>
-        
-        <attr name="thumbTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-        
-        <attr format="reference" name="track"/>
-        
-        <attr format="color" name="trackTint"/>
-        
-        <attr name="trackTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-        
-        <attr name="android:textOn"/>
-        
-        <attr name="android:textOff"/>
-        
-        <attr format="dimension" name="thumbTextPadding"/>
-        
-        <attr format="reference" name="switchTextAppearance"/>
-        
-        <attr format="dimension" name="switchMinWidth"/>
-        
-        <attr format="dimension" name="switchPadding"/>
-        
-        <attr format="boolean" name="splitTrack"/>
-        
-        <attr format="boolean" name="showText"/>
     </declare-styleable><declare-styleable name="AppCompatTextHelper">
         <attr name="android:drawableLeft"/>
         <attr name="android:drawableTop"/>

@@ -13,6 +13,7 @@ import android.text.Spanned;
 import android.text.TextPaint;
 import android.text.method.LinkMovementMethod;
 import android.text.style.ClickableSpan;
+import android.util.DisplayMetrics;
 import android.view.TextureView;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,6 +21,7 @@ import android.widget.Button;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
 import android.widget.MediaController;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.VideoView;
@@ -33,6 +35,7 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.widget.ViewSwitcher;
 
+import com.blogspot.atifsoftwares.animatoolib.Animatoo;
 import com.sprylab.android.widget.TextureVideoView;
 
 import java.io.IOException;
@@ -53,6 +56,8 @@ public class CoalMill extends Activity{
     Button next;
     TextView maintext;
     ImageSwitcher sw;
+    ScrollView scrollView;
+    Button fs;
 
     int i=0;
     int j=2;
@@ -63,11 +68,16 @@ public class CoalMill extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.coalmill);
         changetext=(TextView) findViewById(R.id.buttonplay);
+        scrollView=(ScrollView)findViewById(R.id.scroll_home);
+        scrollView.setDescendantFocusability(ViewGroup.FOCUS_BEFORE_DESCENDANTS);
+        scrollView.fullScroll(ScrollView.FOCUS_UP);
+        scrollView.requestLayout();
 
         click=(Button) findViewById(R.id.buttonplay);
         prev=(Button) findViewById(R.id.prev);
         next=(Button)findViewById(R.id.next);
 
+        fs=(Button) findViewById(R.id.btnfull);
         video=(TextureVideoView) findViewById(R.id.videoview);
         control= new MediaController(this);
 
@@ -77,6 +87,7 @@ public class CoalMill extends Activity{
             @Override
             public void onClick(View widget) {
                 startActivity(new Intent(CoalMill.this,Grinding.class));
+                Animatoo.animateInAndOut(CoalMill.this);
             }
 
             public void UpdateDrawState(TextPaint ds)
@@ -121,6 +132,7 @@ public class CoalMill extends Activity{
             @Override
             public void onClick(View v) {
                 if(j<3) {
+                    prev.setEnabled(true);
                     Toast.makeText(CoalMill.this, "Next Image", Toast.LENGTH_SHORT).show();
 
 
@@ -132,7 +144,10 @@ public class CoalMill extends Activity{
                     else if (j == 3)
                         sw.setImageResource(R.mipmap.c);
                 }
-                else Toast.makeText(CoalMill.this, "End of Pics", Toast.LENGTH_SHORT).show();
+                else {
+                    next.setEnabled(false);
+                    Toast.makeText(CoalMill.this, "End of Pics", Toast.LENGTH_SHORT).show();
+                }
             }
         });
 
@@ -142,6 +157,7 @@ public class CoalMill extends Activity{
 
                 if(j>1)
                 {
+                    prev.setEnabled(true);
                     Toast.makeText(CoalMill.this, "Previous Image", Toast.LENGTH_SHORT).show();
                     j--;
 
@@ -151,7 +167,11 @@ public class CoalMill extends Activity{
                     else if (j == 3)
                         sw.setImageResource(R.mipmap.c);
                 }
-                else Toast.makeText(CoalMill.this, "End of Pics", Toast.LENGTH_SHORT).show();
+
+                else{
+                    prev.setEnabled(false);
+                    Toast.makeText(CoalMill.this, "End of Pics", Toast.LENGTH_SHORT).show();
+                }
             }
         });
 
@@ -167,7 +187,6 @@ public class CoalMill extends Activity{
         control.setAnchorView(video);
 
 
-
         if (i%2==1)
         {
             changetext.setText("STOP");
@@ -181,6 +200,23 @@ public class CoalMill extends Activity{
 
         }
 
+    }
+
+    public void fullscreen(View v)
+    {/*
+        DisplayMetrics metrics = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(metrics);
+        android.widget.LinearLayout.LayoutParams params = (android.widget.LinearLayout.LayoutParams) video.getLayoutParams();
+        params.width = metrics.widthPixels;
+        params.height = metrics.heightPixels;
+        params.leftMargin = 0;
+        video.setLayoutParams(params);*/
+      //  video.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+
+
+        //videoPlaybackActivity.putExtra("videoPath", videoPath);
+
+        startActivity(new Intent(this, videoplayer.class));
     }
 
 /*
